@@ -21,6 +21,16 @@ body {
     -o-background-size: cover;
 }
 
+.business-footer {
+       height: 250px;
+    background: url(footer.jpg); center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+
 /* Customize the text color and shadow color and to optimize text legibility. */
 
 .tagline {
